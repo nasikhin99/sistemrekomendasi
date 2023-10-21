@@ -1,0 +1,63 @@
+.act-btn{
+            background:#777;
+            display: block;
+            width: 95px;
+            height: auto;
+            line-height: px;
+            text-align: center;
+            color: white;
+            font-size: 25px;
+            font-weight: bold;
+            border-radius: 10%;
+            -webkit-border-radius: 10%;
+            text-decoration: none;
+            transition: ease all 0.3s;
+            position: fixed;
+            right: 10px;
+            bottom:10px;
+        }
+.act-btn:hover{background: #888;
+text-decoration: none;
+}
+.act-btn2{
+            background:#777;
+            display: block;
+            width: 95px;
+            height: auto;
+            line-height: px;
+            text-align: center;
+            color: white;
+            font-size: 25px;
+            font-weight: bold;
+            border-radius: 10%;
+            -webkit-border-radius: 10%;
+            text-decoration: none;
+            transition: ease all 0.3s;
+            position: fixed;
+            right: 10px;
+            bottom:50px;
+        }
+.act-btn2:hover{background: #888;
+text-decoration: none;
+}
+.act-btn3{
+            background:#777;
+            display: block;
+            width: 95px;
+            height: auto;
+            line-height: px;
+            text-align: center;
+            color: white;
+            font-size: 25px;
+            font-weight: bold;
+            border-radius: 10%;
+            -webkit-border-radius: 10%;
+            text-decoration: none;
+            transition: ease all 0.3s;
+            position: fixed;
+            right: 10px;
+            bottom:90px;
+        }
+.act-btn3:hover{background: #888;
+text-decoration: none;
+}
